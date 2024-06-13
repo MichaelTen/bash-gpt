@@ -40,6 +40,8 @@ which gpt
 
 b. edit script if you want to 
 
+ctrl+6 then ctrl+k to delete lines in the file to replace it. 
+
 sudo nano /usr/local/bin/gpt
 
 more later maybe... 
