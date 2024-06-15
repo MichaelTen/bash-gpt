@@ -1,4 +1,4 @@
-# bash-gpt
+# gpt-cli
 Run ChatGPT in CLI using command gpt [prompt]. here are the follow instructions to get this working ok. 
 
 1. Update the script:
